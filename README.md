@@ -1,4 +1,5 @@
 alteração no github
+revisao ex-7
 # Introdução à Computação - Aula 8 (P)
 ### Git: Branches, Rebase e LFS
 
