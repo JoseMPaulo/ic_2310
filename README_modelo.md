@@ -1,8 +1,8 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Jose Paulo**  
+- **Número: a22603093**  
+- **Turma: TD01AMVI02**  
 
 ---
 
