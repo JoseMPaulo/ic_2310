@@ -9,7 +9,9 @@
 ## Alterações realizadas
 
 (Descreve brevemente as alterações feitas neste repositório.)
-conflito
+
+Colocação dos dados do aluno
+criação do branch fix
 
 ---
 
